@@ -1,4 +1,4 @@
-jp.keijiro.apriltag - AprilTag package for Unity
+AR Unity with AprilTag (Keijiro)
 ================================================
 
 ![gif](https://i.imgur.com/1iushmq.gif)
@@ -24,15 +24,8 @@ At the moment, this package supports the following systems:
 How to install
 --------------
 
-This package is available in the `Keijiro` scoped registry.
+clone or Download as Zip this repo and open in Unity
 
-- Name: `Keijiro`
-- URL: `https://registry.npmjs.com`
-- Scope: `jp.keijiro`
-
-Please follow [this gist] to add the registry to your project.
-
-[this gist]: https://gist.github.com/keijiro/f8c7e8ff29bfe63d86b888901b82644c
 
 How to try the sample project
 -----------------------------
@@ -98,6 +91,13 @@ detector.Dispose();
 For details, please check the [DetectionTest.cs] example.
 
 [DetectionTest.cs]: /Assets/DetectionTest.cs
+
+
+Augmenting Virtual Object (Only in this repo!)
+--------------------
+@@@
+
+
 
 Related repositories
 --------------------
