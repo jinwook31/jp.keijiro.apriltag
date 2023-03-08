@@ -1,4 +1,4 @@
-AR Unity with AprilTag (Keijiro)
+AR App Development in Unity with AprilTag (QR) (Keijiro)
 ================================================
 
 ![gif](https://i.imgur.com/1iushmq.gif)
@@ -95,7 +95,7 @@ For details, please check the [DetectionTest.cs] example.
 
 Augmenting Virtual Object (Only in this repo!)
 --------------------
-@@@
+For implementing AR application, this repo added some features that could help you easily augment your model (fbx, vfx etc..).
 
 
 
