@@ -97,6 +97,7 @@ Augmenting Virtual Object (Only in this repo!)
 --------------------
 For implementing AR application, this repo added some features that could help you easily augment your model (fbx, vfx etc..).
 
+![option](./AR Function/opt.png)
 
 
 Related repositories
