@@ -97,7 +97,9 @@ Augmenting Virtual Object (Only in this repo!)
 --------------------
 For implementing AR application, this repo added some features that could help you easily augment your model (fbx, vfx etc..).
 
-![option](./AR Function/opt.png)
+![option](https://github.com/jinwook31/jp.keijiro.apriltag/blob/main/AR%20Function/opt.png)
+
+There will be Prefab and Id List section in Detection Test component. Add prefabs that you want to augment and assign appropriate id in the list. You can find the id in the log console when the AprilTag is detected. Please report if there is an error! Thanks!
 
 
 Related repositories
